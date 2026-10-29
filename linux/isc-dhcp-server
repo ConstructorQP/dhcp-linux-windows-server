@@ -1,0 +1,4 @@
+# /etc/default/isc-dhcp-server
+# Interfaz en la que escucha el servidor DHCP (solo la red interna)
+INTERFACESv4="enp0s8"
+INTERFACESv6=""
